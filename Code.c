@@ -1,10 +1,10 @@
-/*DSA Innovative Assignment Group Members :
+/*  Group Members :
     20BCE031 - Bhargav Patel
     20BCE055 - Devansh Shah
     20BCE062 - Dhruvin Varsani
 
     Project Title - Banking Facility
-    Project Description :
+    Project Functionalities :
     - This program allows user to create new account by giving initial amount they want to maintain
     - And by login they can make money transfer in different account, check account's previous transactions And check current balance in Account
     - User can also Check all his Previous transactions in accounts respective text file
